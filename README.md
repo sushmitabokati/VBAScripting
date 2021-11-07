@@ -6,8 +6,9 @@ To refactor the existing VBA script to run faster.
 
 ## Situation
 Steve uses VBA script to analyze the stock data. However current script is not effiecient and takes longer time when used in larger data.
-Use content learned thorughout this module to refactor the code faster. 
-Orignally code took 1.49 and 0.05 seconds to run in 2017 and 2018 respectfully. 
+Use content learned thorughout this module to refactor the code faster.  Orignally code took 1.49 and 0.05 seconds to run in 2017 and 2018 respectfully. 
+
+
 <img width="272" alt="Orignalruntime2017" src="https://user-images.githubusercontent.com/93223274/140663018-744e0d01-5c2e-47e0-8150-932c88207113.png">
 
 <img width="263" alt="Orignalruntime2018" src="https://user-images.githubusercontent.com/93223274/140663019-154c2e53-8cb8-48f7-b512-1c8bee98f028.png">
