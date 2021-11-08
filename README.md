@@ -16,7 +16,7 @@ Use content learned thorughout this module to refactor the code faster.  Orignal
 
 ### Refactoring
 
-Orignal code lops through 12 stockes. It picks one and loops through the entire dataset. Every time macro is run it loops thorugh 3000 lines 12 times. This can be minimized by the use of stock ticker. Refactor code creates three new arrays that holds tickervolumnes, tickerstartingprice and tickerendingprice. Below is the results of the refactored code. 
+Orignal code lops through 12 stocks. It picks one and loops through the entire dataset. Every time macro is run it loops thorugh 3000 lines 12 times. This can be minimized by the use of stock ticker. Refactor code creates three new arrays that holds ticker volumes, tickerstartingprice and tickerendingprice. Below is the results of the refactored code. 
 
 
 <img width="267" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/93223274/140663025-052db7ba-1b15-4d15-9094-b3c9337e9e7d.png">
@@ -32,4 +32,4 @@ The rate of the return is much better in the 2017 than in 2018. There are some s
 ![2018Summary](https://user-images.githubusercontent.com/93223274/140663024-1239afe5-c273-42a9-8a7a-1f903e9fadb4.png)>
 
 ### Refactoring as a practise
-Refactoring is the key procedural part of the product development. All the programming languages keeps evolving which includes packages and subpackes that makes tasking efficient with fewer lines of code. Refactoring is not just good for efficiency it also improves the readability which can be useful in the tranfer of the knowledge within the team. Often time when working in the big team this can save time. There are times when one should think hard before refactoring as it can effect in the testing outcome. One should know the impact of the refactoring to the exitisting pipeline before actually doing it. 
+Refactoring is the key procedural part of the product development. All the programming languages keeps evolving which includes packages and subpackes that makes tasking efficient with fewer lines of code. Refactoring is not just good for efficiency it also improves the readability which can be useful in the transfer of the knowledge within the team. Often time when working in the big team this can save time. There are times when one should think hard before refactoring as it can effect in the testing outcome. One should know the impact of the refactoring to the exitisting pipeline before actually doing it. 
